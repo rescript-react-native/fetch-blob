@@ -1,15 +1,15 @@
 'use strict';
 
 
-var Config = { };
+var Config = {};
 
-var ResponseInfo = { };
+var ResponseInfo = {};
 
-var $$Response = { };
+var $$Response = {};
 
-var Fetch = { };
+var Fetch = {};
 
-var Stat = { };
+var Stat = {};
 
 var Fs = {
   Stat: Stat

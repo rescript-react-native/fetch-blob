@@ -15,7 +15,7 @@ Exposed as `ReactNativeFetchBlob` module.
 
 ## Installation
 
-When [`rn-fetch-blob`](`https://github.com/joltup/rn-fetch-blob`) is properly
+When [`rn-fetch-blob`](https://github.com/joltup/rn-fetch-blob) is properly
 installed & configured by following their installation instructions, you can
 install the bindings:
 

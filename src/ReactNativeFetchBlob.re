@@ -14,6 +14,8 @@ module Config = {
     key: string,
     [@bs.optional]
     timeout: int,
+    [@bs.optional]
+    wifiOnly: bool,
   };
 };
 

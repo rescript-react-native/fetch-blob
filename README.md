@@ -4,14 +4,13 @@
 [![Version](https://img.shields.io/npm/v/@reason-react-native/fetch-blob.svg)](https://www.npmjs.com/@reason-react-native/fetch-blob)
 [![Chat](https://img.shields.io/discord/235176658175262720.svg?logo=discord&colorb=blue)](https://reasonml-community.github.io/reason-react-native/discord/)
 
-[ReasonML](https://reasonml.github.io) /
-[BuckleScript](https://bucklescript.github.io) bindings for
+[ReScript](https://rescript-lang.org) / [Reason](https://reasonml.github.io) bindings for
 [`rn-fetch-blob`](https://github.com/joltup/rn-fetch-blob).
 
 Exposed as `ReactNativeFetchBlob` module.
 
-`@reason-react-native/fetch-blob` X.y._ means it's compatible with
-`rn-fetch-blob` X.y._
+`@reason-react-native/fetch-blob` X.y.\* means it's compatible with
+`rn-fetch-blob` X.y.\*
 
 ## Installation
 
@@ -26,7 +25,7 @@ yarn add @reason-react-native/fetch-blob
 ```
 
 `@reason-react-native/fetch-blob` should be added to `bs-dependencies` in your
-`bsconfig.json`. Something like
+`bsconfig.json`:
 
 ```diff
 {

@@ -1,11 +1,11 @@
 {
   "name": "@reason-react-native/fetch-blob",
-  "version": "0.11.2",
+  "version": "0.12.0",
   "publishConfig": {
     "access": "public"
   },
   "peerDependencies": {
-    "rn-fetch-blob": "^0.11.2"
+    "rn-fetch-blob": "^0.12.0"
   },
   "repository": "https://github.com/reason-react-native/fetch-blob.git",
   "license": "MIT",
@@ -32,12 +32,14 @@
     "re:clean-build": "bsb -clean-world -make-world",
     "start": "yarn re:start",
     "build": "yarn re:build",
-    "test": "yarn re:clean-build"
+    "test": "yarn re:clean-build",
+    "release": "npmpub"
   },
   "devDependencies": {
-    "bs-platform": "^8.0.0",
+    "bs-platform": "^8.2.0",
     "husky": "^4.0.0",
     "lint-staged": "^10.0.0",
+    "npmpub": "^5.0.0",
     "prettier": "^2.0.0"
   },
   "prettier": {

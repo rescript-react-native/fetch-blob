@@ -1,5 +1,5 @@
 # Changelog of `@reason-react-native/fetch-blob`
 
-## X.Y.Z - 2019-XX-XX
+## 0.12.0 - 2020-11-07
 
-Initial release.
+Initial release. Incomplete bindings.

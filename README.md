@@ -9,6 +9,8 @@
 
 Exposed as `ReactNativeFetchBlob` module.
 
+**⚠️ Incomplete bindings!**
+
 `@reason-react-native/fetch-blob` X.y.\* means it's compatible with
 `rn-fetch-blob` X.y.\*
 
@@ -42,17 +44,7 @@ yarn add @reason-react-native/fetch-blob
 
 ## Usage
 
-### Types
-
-#### `ReactNativeFetchBlob.t`
-
-...
-
-### Methods
-
-#### `ReactNativeFetchBlob.method`
-
-...
+@todo
 
 ---
 

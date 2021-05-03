@@ -1,4 +1,4 @@
-# Changelog of `@reason-react-native/fetch-blob`
+# Changelog of `@rescript-react-native/fetch-blob`
 
 ## 0.12.1 - 2020-11-17
 
